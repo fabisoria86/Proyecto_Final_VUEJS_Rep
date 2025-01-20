@@ -3,7 +3,11 @@
 ## Project setup
 ```
 npm install
+npm install -g json-server
 ```
+
+### LEVANTAR EL SERVIDOR EN CMD
+json-server --watch db.json --port 3000
 
 ### Compiles and hot-reloads for development
 ```
