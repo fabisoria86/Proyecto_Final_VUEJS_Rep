@@ -3,7 +3,6 @@
 ## Project setup
 ```
 npm install
-npm install -g json-server
 ```
 
 ### LEVANTAR EL SERVIDOR EN CMD
